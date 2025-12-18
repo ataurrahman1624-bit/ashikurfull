@@ -1,0 +1,128 @@
+@media (min-width: 320px) and (max-width: 575px) {
+    #bg{
+height: 113px;
+    }
+  #bg h1 {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    color: #fff;
+  }
+
+  #bg p {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 190%;
+    text-align: center;
+    color: #fff;
+  }
+  #freelance{
+    margin-top: 17px;
+  }
+  #freelance p{
+font-weight: 400;
+font-size: 13px;
+line-height: 180%;
+text-align: justify;
+color: #7a7a7a;
+}
+#freelance b{
+font-weight: 500;
+font-size: 13px;
+line-height: 190%;
+color: #000000;
+}
+#freelance a{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 13px;
+line-height: 190%;
+text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #3479ff;
+}
+  #freelance .right{
+font-weight: 400;
+font-size: 13px;
+line-height: 180%;
+text-align: justify;
+color: #7a7a7a;
+  }
+  .back{
+    display: none;
+  }
+.name{
+  display: none;
+}
+#freelance{
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+
+.one p{
+font-weight: 400;
+font-size: 13px;
+line-height: 190%;
+color: #7a7a7a;
+}
+.one b{
+font-weight: 500;
+font-size: 13px;
+line-height: 190%;
+color: #353535;
+}
+.one a{
+  font-weight: 400;
+font-size: 13px;
+line-height: 190%;
+  text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #3479ff;
+}
+#end {
+    display: none;
+}
+.Pend{
+background: #575757;;
+}
+.Pend h4{
+    padding-top: 17px;
+font-weight: 700;
+font-size: 18px;
+line-height: 200%;
+color: #fff;
+}
+.Pend p{
+    padding-bottom: 29px;
+font-weight: 400;
+font-size: 13px;
+line-height: 180%;
+text-align: justify;
+color: #bbb9b9;
+}
+.Pend span{
+    margin-top: 35px;
+font-weight: 400;
+font-size: 12px;
+line-height: 180%;
+text-align: justify;
+color: #bbb9b9;
+}
+.Pend b,
+.Pend a{
+font-weight: 500;
+font-size: 13px;
+line-height: 180%;
+color: #fff;
+}
+.Pend h5{
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 14px;
+line-height: 180%;
+text-align: justify;
+color: #fff;
+}
+}

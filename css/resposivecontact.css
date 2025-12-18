@@ -1,0 +1,86 @@
+@media (min-width: 320px) and (max-width: 575px) {
+    #banner #bg{
+height: 113px;
+    }
+  #bg h1 {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    color: #fff;
+  }
+
+  #bg p {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 190%;
+    text-align: center;
+    color: #fff;
+  }
+  #contact{
+    margin: 25px 0;
+  }
+  .contacts-wrap { padding: 12px; }
+  .icon-circle { width:44px; height:44px; min-width:44px; }
+  .contact-title {
+font-weight: 500;
+font-size: 15px;
+line-height: 190%;
+color: #353535; }
+  .contact-sub {
+font-weight: 400;
+font-size: 11px;
+line-height: 190%;
+color: #7a7a7a;}
+.contact-sub a{
+font-weight: 400;
+font-size: 11px;
+line-height: 190%;
+color: #7a7a7a;
+}
+  #end {
+    display: none;
+}
+.Pend{
+background: #575757;;
+}
+.Pend h4{
+    padding-top: 17px;
+font-weight: 700;
+font-size: 18px;
+line-height: 200%;
+color: #fff;
+}
+.Pend p{
+    padding-bottom: 29px;
+font-weight: 400;
+font-size: 13px;
+line-height: 180%;
+text-align: justify;
+color: #bbb9b9;
+}
+.Pend span{
+    margin-top: 35px;
+font-weight: 400;
+font-size: 12px;
+line-height: 180%;
+text-align: justify;
+color: #bbb9b9;
+}
+.Pend b,
+.Pend a{
+font-weight: 500;
+font-size: 13px;
+line-height: 180%;
+color: #fff;
+}
+.Pend h5{
+font-family: var(--font-family);
+font-weight: 400;
+font-size: 14px;
+line-height: 180%;
+text-align: justify;
+color: #fff;
+}
+}
